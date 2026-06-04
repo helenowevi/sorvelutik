@@ -335,3 +335,4 @@ Most traders complete the full onboarding process — registration, identity ver
 ### How does [Sorvelutik](https://sorvelutik-platform.com)'s three-layer analysis engine work?
 
 The engine operates three independent analysis tracks: real-time news and sentiment surveillance, continuous macro market scanning with cross-asset correlation detection, and convolutional neural network chart pattern recognition. All three data streams converge through the central algorithm to produce unified, conviction-weighted trading signals.
+<meta name="google-site-verification" content="w3CGwPLOtFPUwmgtEFkjUJFLCHpyLWqfBLHQUQoCNmQ" />
